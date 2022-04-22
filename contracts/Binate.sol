@@ -373,7 +373,7 @@ contract Binate is ERC20Detailed, Ownable, MinterRole {
     uint256 public feeDenominator = 10000;
 
     uint256 public rebaseEpoch = 1;
-    uint256 public rebaseFrequency = 600;
+    uint256 public rebaseFrequency = 1800;
     uint256 public nextRebase = block.timestamp + rebaseFrequency;
 
     address DEAD = 0x000000000000000000000000000000000000dEaD;
