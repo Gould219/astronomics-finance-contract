@@ -12,7 +12,7 @@
 	+ Liquidity : 4.5%
 	+ Treasurey : 2.5%
 	+ AIF : 4.5%
-	+ BlackHole : 2.5%
+	+ BlackHole : 2.5%<br/>
 	-sellFee
 	+ Liquidity : 4.5%
 	+ Treasurey : 5%
