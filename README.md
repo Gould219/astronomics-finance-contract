@@ -7,7 +7,7 @@
 + Initial Supply : 3,000,000,000
 + APY : 389,895.69%
 + Rebase Frequency : 15 min
-+ Trading Fee:
++ Trading Fee:<br/>
 	-buyFee
 	+ Liquidity : 4.5%
 	+ Treasurey : 2.5%
