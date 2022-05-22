@@ -25,7 +25,7 @@
 	+ RiskFreeValueReceiver : [ ](https://bscscan.com/address/ )
 + wallet
 +	-Treasury<br/>
-	0xb089Eb77A113e141F75d1294228A67F0AAB3ACDf
+	0xb089Eb77A113e141F75d1294228A67F0AAB3ACDf<br/>
  	-Insurance wallet<br/>
 	0xAC036F35F2b7BDde82135CB02eb0B185436aBaaC
 
