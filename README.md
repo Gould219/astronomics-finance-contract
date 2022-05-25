@@ -18,7 +18,7 @@
 	+ Treasurey : 5%
 	+ AIF : 4.5%
 	+ BlackHole : 2.5%
-	+ DevFund : 2%
+	+ DevFund : 2%<br/>
 +Anti Dump
 	1.5 to 7%
 + Tax receivers:
