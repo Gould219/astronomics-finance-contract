@@ -7,6 +7,8 @@
 + Initial Supply : 3,000,000,000
 + APY : 389,895.69%
 + Rebase Frequency : 15 min
++ Anti Dump
+	1.5 to 7%
 + Trading Fee:<br/>
 	-buyFee
 	+ Liquidity : 4.5%
@@ -18,9 +20,7 @@
 	+ Treasurey : 5%
 	+ AIF : 4.5%
 	+ BlackHole : 2.5%
-	+ DevFund : 2%<br/>
-+Anti Dump
-	1.5 to 7%
+	+ DevFund : 2%
 + Tax receivers:
 	+ autoLiquidityReceiver : [ ](https://bscscan.com/address/ )
 	+ TreasuryReceiver : [ ](https://bscscan.com/address/ )
