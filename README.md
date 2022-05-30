@@ -9,7 +9,7 @@
 + Rebase Frequency : 15 min
 + Anti Dump
 	1.5 to 7%
-+ Trading Fee:<br/>
++ Trading Fee:<br/> 
 	-buyFee
 	+ Liquidity : 4.5%
 	+ Treasurey : 2.5%
